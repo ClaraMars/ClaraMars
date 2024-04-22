@@ -13,7 +13,7 @@
    <h2> 🔨 Languages and Tools: </h2>
     <br>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,sass,js,ts,react,styledcomponents,bootstrap,jest,nodejs,mysql,mongodb,express,figma&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket,html,css,sass,js,ts,react,styledcomponents,bootstrap,jest,nodejs,mysql,mongodb,express,figma&theme=light&perline=8)](https://skillicons.dev)
 
 <br>
 <hr>
